@@ -20,4 +20,4 @@ Unity 3D Version: 2019.2.19f1
 ```
 Download Unity Hub
 ```
-![Where to download](https://drive.google.com/drive/u/0/folders/1amUrwT_mHijwZpiD-S81Wj3QlVsm5op8)
+![Where to download](https://github.com/chamx2/OculusQuestStarterPack/blob/master/Instructions/UnityHubDownload.png)
